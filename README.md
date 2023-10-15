@@ -38,3 +38,8 @@ Encoding audio: Encoding audio dapat digunakan untuk mengubah data audio dari sa
 Encoding video: Encoding video dapat digunakan untuk mengubah data video dari satu format ke format lain. Misalnya, video dapat di-encode ke format MP4, AVI, atau WMV.
 contoh lain dari encoding adalah base64 yang paling sering digunakan dan dikombinasikan dengan enkripsi.
 -------------------------------------------
+Apa itu obfuscation ?
+Obfuscation adalah proses membuat kode atau data sulit dipahami bagi manusia.
+Melindungi kekayaan intelektual: Obfuscation dapat digunakan untuk melindungi kode sumber dari pesaing atau peretas.
+Mencegah reverse engineering: Obfuscation dapat digunakan untuk membuat kode lebih sulit untuk di-reverse engineer, sehingga menyulitkan orang untuk memahami cara kerjanya.
+Meningkatkan keamanan: Obfuscation dapat digunakan untuk meningkatkan keamanan kode dengan membuat lebih sulit bagi penyerang untuk menemukan dan memanfaatkan kerentanan.
